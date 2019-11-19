@@ -1,0 +1,18 @@
+.bujufour{
+    height: 30px;
+    width: 100%;
+    background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+    font-size: 17px;
+   
+}
+.aa{
+    padding-left: 200px;
+}
+.bb{
+    display: flex;
+   padding-left: 700px;
+    
+}
+.cc{
+    padding-left: 100px;
+}
