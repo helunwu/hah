@@ -11,7 +11,7 @@ export default class BujufourPage extends React.Component{
       <Col span={12}><div className={BujufourPageCss.aa}>欢迎来到二手网</div></Col>
       <Col span={12}>
           <div className={BujufourPageCss.bb}>
-          <div><Icon type="user" /><Link to="/login">登录</Link> </div>
+          <div><Icon type="user" /><Link to="/login">登</Link> </div>
                       <span>/</span>
                       <div><Link to="/register">注册</Link></div>
 
